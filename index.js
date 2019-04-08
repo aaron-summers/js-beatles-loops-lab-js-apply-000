@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 // Solution #01
+=======
+// add solution here
+>>>>>>> feb8838081adbb8e0e9321f9972e0a97c7fbef39
 function theBeatlesPlay(musicians, instruments) {
   var newArray = [];
   
@@ -11,8 +15,11 @@ function theBeatlesPlay(musicians, instruments) {
   return newArray;
 }
 
+<<<<<<< HEAD
 
 // Solution #02
+=======
+>>>>>>> feb8838081adbb8e0e9321f9972e0a97c7fbef39
 function johnLennonFacts(facts) {
   var newFacts = [];
   let i =0;
@@ -25,11 +32,15 @@ function johnLennonFacts(facts) {
   return newFacts;
 }
 
+<<<<<<< HEAD
 // Solution #03
+=======
+>>>>>>> feb8838081adbb8e0e9321f9972e0a97c7fbef39
 function iLoveTheBeatles(num) {
   var counter = [];
   var i = 0;
   
+<<<<<<< HEAD
   if ( num < 15 ) {
   
   do {
@@ -45,3 +56,11 @@ function iLoveTheBeatles(num) {
 }
 
 
+=======
+  do {
+    counter.push("I love the beatles!")
+  }
+  while (i < num);
+}
+
+>>>>>>> feb8838081adbb8e0e9321f9972e0a97c7fbef39
